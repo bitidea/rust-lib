@@ -1,8 +1,7 @@
 # rshutool
-| 模块                |     介绍                                                                          |
+| 模块                |     rust 实现                                                                         |
 | -------------------|---------------------------------------------------------------------------------- |
-| hutool-aop         |     JDK动态代理封装，提供非IOC下的切面支持                                              |
-| hutool-bloomFilter |     布隆过滤，提供一些Hash算法的布隆过滤                                                |
+| hutool-bloomFilter |     https://docs.rs/bloomfilter/1.0.5/bloomfilter/struct.Bloom.html                                                |
 | hutool-cache       |     简单缓存实现                                                                     |
 | hutool-core        |     核心，包括Bean操作、日期、各种Util等                                               |
 | hutool-cron        |     定时任务模块，提供类Crontab表达式的定时任务                                          |
