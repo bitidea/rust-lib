@@ -1,4 +1,5 @@
 # rshutool
+
 | 模块                |     rust 实现                                                                      |
 | -------------------|---------------------------------------------------------------------------------- |
 | hutool-bloomFilter |     https://crates.io/crates/bloomfilter                                          |
@@ -16,6 +17,8 @@
 | hutool-poi         |     https://crates.io/crates/calamine                                             |
 | hutool-socket      |     https://crates.io/crates/tokio                                                 |
 | hutool-jwt         |     https://crates.io/crates/jsonwebtoken                                          |
-| hutool-extra       |     扩展模块，对第三方封装（模板引擎、邮件、Servlet、二维码、Emoji、FTP、分词等）            |
-
--------------------------------------------------------------------------------
+| hutool-extra-mail     |    https://crates.io/crates/lettre                                             |
+| hutool-extra-qrcode   |    https://crates.io/crates/qrcode                                              |
+| hutool-extra-emoji    |    https://crates.io/crates/deunicode                                           |
+| hutool-extra-ftp      |    https://crates.io/crates/ftp                                                  |
+| hutool-extra-segment  |    https://crates.io/crates/jieba                                                |
