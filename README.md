@@ -22,3 +22,5 @@
 | hutool-extra-emoji    |    https://crates.io/crates/deunicode                                           |
 | hutool-extra-ftp      |    https://crates.io/crates/ftp                                                  |
 | hutool-extra-segment  |    https://crates.io/crates/jieba                                                |
+| websocket             |    https://crates.io/crates/tungstenite                                          |
+| redis                 |    https://crates.io/crates/redis                                               |
