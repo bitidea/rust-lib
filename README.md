@@ -9,7 +9,7 @@
 | hutool-crypto      |     https://crates.io/crates/rust-crypto                                          |
 | hutool-db          |     https://crates.io/crates/rbatis                                              |
 | hutool-dfa         |     https://crates.io/crates/regex-automata                                       |
-| hutool-http        |     https://crates.io/crates/http                                                 |
+| hutool-http        |     https://crates.io/crates/reqwest                                                 |
 | hutool-log         |     https://crates.io/crates/log                                                   |
 | hutool-setting     |     https://crates.io/crates/cargo-make                                           |
 | hutool-json        |     https://crates.io/crates/serde                                                |
