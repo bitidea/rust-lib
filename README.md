@@ -10,3 +10,4 @@
 | jwt         |     https://github.com/Keats/jsonwebtoken                                          |
 | websocket             |    https://github.com/snapview/tungstenite-rs                                          |
 | redis                 |    https://github.com/redis-rs/redis-rs                                               |
+| uuid | https://github.com/uuid-rs/uuid |
